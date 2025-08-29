@@ -10,7 +10,7 @@
 </p>
 
 <a href="https://chat.whatsapp.com/IY8OvPk02qxKb1xd0DXtUR" align="center">
-  Nomor Whatsapp Bot
+  82265303339
 </a>
 
 <h3 align="center">Made with ❤️ by</h3>
@@ -86,7 +86,7 @@ Edit value yang diperlukan di `settings/setting.json`.
 
 ```
 
-`ownerBot`: your WhatsApp number.  
+`ownerBot`: 82265303339.  
 
 `prefix`: bot's prefix.  
 
