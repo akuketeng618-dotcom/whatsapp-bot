@@ -1,17 +1,17 @@
 const fs = require('fs');
 const chalk = require('chalk');
 
-global.botName = 'rizaldev v15'; // Nama Bot Kamu
-global.ownerNumber = '6283119115977'; // Nomor Kamu
-global.ownerName = 'rizal-dev'; // Nama Kamu
-global.website = 'https://chat.whatsapp.com/EezT7AiVB96HWLvzJGpv3N'; // Web Kamu
-global.wagc = 'https://chat.whatsapp.com/EezT7AiVB96HWLvzJGpv3N'; // Web Kamu
+global.botName = 'KetengimutBot
+global.ownerNumber = '6282265303339
+global.ownerName = 'Keteng
+global.website = 'https://whatsapp.com/channel/0029VbAzfnuC1Fu4Ls27TR1X
+global.wagc = 'https://chat.whatsapp.com/C5Xj28M1NFe1lzhrFmgTAW?mode=ems_copy_t
 
-global.packname = botName; // Nama Pack
-global.author = ownerName; // Nama Author
+global.packname = 'keteng
+global.author = 'keteng
 global.footer = '© rizal-dev';
-global.creator = '6283119115977@s.whatsapp.net'; // Nomor Creator
-global.premium = ['6283119115977']; // User Premium
+global.creator = '6282265303339@s.whatsapp.net'
+global.premium = ['6282265303339']; //
 global.prefa = '/'; // Prefix
 global.tempatDB = 'database.json'; // Tempat Database
 
@@ -44,12 +44,12 @@ global.onlyRegister = false // Hanya Pendaftar
 global.autoJoinNewsletter = true // 
 
 global.payment = {
-	dana: "088213993436",
-	gopay: "088213993436",
-	ovo: "088213993436",
-	qris: "isi qr kalian",
-	shopeePay: "088213993436",
-	seabank: "088213993436"
+	dana: "088265303339",
+	gopay: "",
+	ovo: "",
+	qris: "",
+	shopeePay: "",
+	seabank: ""
 };
 
 global.limit = {
